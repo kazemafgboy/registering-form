@@ -108,3 +108,17 @@ table{
 .list_table td {
   border-bottom: 1px solid #ddd;
 }
+
+a{
+  text-decoration: none;
+  display: inline-block;
+  border: solid 1px black;
+  width: 80px;
+  height: 30px;
+  text-align: center;
+  padding-top: 8px;
+  background-color: #b1f1b4;
+  border-radius: 6px;
+  margin-left: 40px;
+}
+
